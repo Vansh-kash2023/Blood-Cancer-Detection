@@ -1,1 +1,6 @@
 venv
+cnn.ipynb
+bilstm.ipynb
+ffnn.ipynb
+lstm.ipynb
+seqcnn.ipynb
