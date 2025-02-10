@@ -25,7 +25,7 @@ Alternatively, install any missing dependencies when running the notebooks.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vansh-kash2023/Blood-Cancer-Detection.git
-   cd your-repo-name
+   cd Blood-Cancer-Detection
    ```
 
 2. Start Jupyter Notebook:
